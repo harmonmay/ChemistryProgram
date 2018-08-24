@@ -1,0 +1,37 @@
+.site_heading{
+  background-color: #dbdbdb;
+  height: 10%;
+  width: 100%;
+
+}
+.site_name{
+  font-size: 40px;
+  text-align: center;
+}
+.period1{
+  height: 100px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+}
+.Hydrogen1{
+  height: 100px;
+  width: 100px;
+  background-color: #ff0004;
+}
+#Hydrogen1-1{
+  text-align: center;
+  padding-top: 7px;
+}
+#Hydrogen1-01{
+  text-align: center;
+}
+#Hydrogen1-001{
+  text-align: center;
+}
+.Helium2{
+  height: 100px;
+  width: 100px;
+  background-color: #ff0004;
+  float: right;
+}

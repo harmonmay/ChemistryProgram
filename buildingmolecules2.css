@@ -1,0 +1,14 @@
+.site_heading{
+  background-color: #edeeef;
+  height: 15%;
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
+}
+.Column1 button{
+  display: inline;
+  border: 1px solid black;
+}
+.Helium{
+  float:right;
+}
